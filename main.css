@@ -24,12 +24,12 @@
     font-size: 25px;
     cursor: pointer;
     margin: 3px;
-    background-color: rgb(100, 50, 50);
+    background-color: rgb(86, 142, 179);
     border: none;
-    color: rgb(3, 3, 3);
+    color: rgb(0, 0, 0);
 } 
 .botan:hover{
-    background-color: black;
+    background-color: rgba(145, 134, 134, 0.377);
 }
 #resultado{
     background-color: white;
@@ -41,3 +41,4 @@
     text-align: right;
     padding: 5px;
 }
+/* ilva estudie se hicieron cambios en la opacidad y el color */
